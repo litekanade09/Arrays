@@ -1,6 +1,7 @@
 In this repository, I explore fundamental data structures implemented in Java, enhancing my understanding of algorithms and their applications. Each section provides insights into various data structures, with a focus on practical examples and coding techniques.
 
 Arrays
+
 Definition and Characteristics: Arrays are a collection of elements, all of the same type, stored in contiguous memory locations, allowing for efficient indexing.
 
 Implementation in Java: Demonstrated the syntax and structure for declaring, initializing, and accessing arrays in Java.
